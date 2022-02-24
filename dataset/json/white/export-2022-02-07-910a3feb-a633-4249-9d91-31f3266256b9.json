@@ -1,0 +1,4927 @@
+[
+    {
+        "entity_id": "a9108084-bbc0-4a6b-9f6f-d8278337f985",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0428.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:25:47.617654Z",
+                "submit_date": "2022-02-07T09:27:55.614350Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "4s25w58c6",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2037,
+                                "y": 1961,
+                                "width": 202,
+                                "height": 185
+                            }
+                        },
+                        {
+                            "id": "vzmko70dm",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2482,
+                                "y": 1765,
+                                "width": 138,
+                                "height": 39
+                            }
+                        },
+                        {
+                            "id": "hebny9j7n",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2842,
+                                "y": 1770,
+                                "width": 124,
+                                "height": 138
+                            }
+                        },
+                        {
+                            "id": "9cjw7kab0",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 3131,
+                                "y": 1452,
+                                "width": 24,
+                                "height": 134
+                            }
+                        },
+                        {
+                            "id": "oqveugk0x",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 3146,
+                                "y": 1584,
+                                "width": 21,
+                                "height": 73
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "cf60bb55-7579-499f-94eb-03af913e9599"
+    },
+    {
+        "entity_id": "ede561a6-a06e-49ab-ab7b-773dca8ca0b8",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0433.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:27:55.751297Z",
+                "submit_date": "2022-02-07T09:29:16.076894Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "z8ewug60a",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2412,
+                                "y": 1451,
+                                "width": 134,
+                                "height": 60
+                            }
+                        },
+                        {
+                            "id": "mva7yxm0o",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2617,
+                                "y": 1773,
+                                "width": 70,
+                                "height": 121
+                            }
+                        },
+                        {
+                            "id": "k3pqrkuox",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2618,
+                                "y": 1977,
+                                "width": 122,
+                                "height": 43
+                            }
+                        },
+                        {
+                            "id": "z2ug7wmma",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2485,
+                                "y": 1970,
+                                "width": 126,
+                                "height": 52
+                            }
+                        },
+                        {
+                            "id": "w6bfyzjh7",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2513,
+                                "y": 1544,
+                                "width": 65,
+                                "height": 113
+                            }
+                        },
+                        {
+                            "id": "gksznq58l",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2455,
+                                "y": 1651,
+                                "width": 53,
+                                "height": 197
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "108f1841-25c4-487f-a84d-9892e2566d0c"
+    },
+    {
+        "entity_id": "5de5b869-2667-451f-9046-251152e0de9d",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0439.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:29:16.206889Z",
+                "submit_date": "2022-02-07T09:29:55.922806Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "nzs9q4dyv",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2119,
+                                "y": 1718,
+                                "width": 50,
+                                "height": 86
+                            }
+                        },
+                        {
+                            "id": "l9m2tumen",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2211,
+                                "y": 1823,
+                                "width": 84,
+                                "height": 33
+                            }
+                        },
+                        {
+                            "id": "ivzqwat4t",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2200,
+                                "y": 1929,
+                                "width": 140,
+                                "height": 96
+                            }
+                        },
+                        {
+                            "id": "i0a38f2m8",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2339,
+                                "y": 1797,
+                                "width": 223,
+                                "height": 42
+                            }
+                        },
+                        {
+                            "id": "a8l3wptpx",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2406,
+                                "y": 1755,
+                                "width": 76,
+                                "height": 160
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "2da46b35-f8e1-42a0-a9a2-55af50b396c6"
+    },
+    {
+        "entity_id": "f58dc4ea-99cf-4315-b110-8977b0b51768",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0443.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:29:56.141758Z",
+                "submit_date": "2022-02-07T09:30:37.784693Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "ese1yyx6p",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2476,
+                                "y": 1598,
+                                "width": 171,
+                                "height": 129
+                            }
+                        },
+                        {
+                            "id": "ljhjjrewy",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2426,
+                                "y": 1264,
+                                "width": 100,
+                                "height": 133
+                            }
+                        },
+                        {
+                            "id": "v6i10oc85",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2311,
+                                "y": 1306,
+                                "width": 75,
+                                "height": 119
+                            }
+                        },
+                        {
+                            "id": "a6i16h7xq",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2247,
+                                "y": 1431,
+                                "width": 59,
+                                "height": 119
+                            }
+                        },
+                        {
+                            "id": "pmlwjyo4e",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2068,
+                                "y": 1589,
+                                "width": 213,
+                                "height": 113
+                            }
+                        },
+                        {
+                            "id": "rje24fcre",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2243,
+                                "y": 1719,
+                                "width": 67,
+                                "height": 150
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "fa0439be-9800-4179-a40a-470f82230170"
+    },
+    {
+        "entity_id": "23af6ae3-a7b7-432c-bfcd-cbb5b7cfaadb",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0448.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:30:37.914088Z",
+                "submit_date": "2022-02-07T09:31:31.083261Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "72idjkeve",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 3129,
+                                "y": 1331,
+                                "width": 68,
+                                "height": 77
+                            }
+                        },
+                        {
+                            "id": "dtsflnavg",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2886,
+                                "y": 1584,
+                                "width": 138,
+                                "height": 112
+                            }
+                        },
+                        {
+                            "id": "zowzkucp6",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2730,
+                                "y": 1447,
+                                "width": 28,
+                                "height": 207
+                            }
+                        },
+                        {
+                            "id": "p3zbki5uj",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2437,
+                                "y": 1647,
+                                "width": 100,
+                                "height": 270
+                            }
+                        },
+                        {
+                            "id": "krbmn9epy",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2322,
+                                "y": 1752,
+                                "width": 270,
+                                "height": 103
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "bf79e74d-37f2-40a4-bf65-95ce86a74f4b"
+    },
+    {
+        "entity_id": "f4bb66c2-9265-44ff-9c40-f45f1ca06492",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0454.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:31:31.244347Z",
+                "submit_date": "2022-02-07T09:32:24.511333Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "58bkh2lab",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2230,
+                                "y": 1519,
+                                "width": 79,
+                                "height": 46
+                            }
+                        },
+                        {
+                            "id": "m3w20x367",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2402,
+                                "y": 1390,
+                                "width": 121,
+                                "height": 169
+                            }
+                        },
+                        {
+                            "id": "dmp9xdmq8",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2252,
+                                "y": 1720,
+                                "width": 285,
+                                "height": 216
+                            }
+                        },
+                        {
+                            "id": "iopwqf0mz",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2797,
+                                "y": 1822,
+                                "width": 145,
+                                "height": 114
+                            }
+                        },
+                        {
+                            "id": "oplhor0bq",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1898,
+                                "y": 1731,
+                                "width": 185,
+                                "height": 222
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "a6b1ef7e-af26-4cd7-a4c8-b250cc17e078"
+    },
+    {
+        "entity_id": "e1e2ba55-6bd0-47e0-97aa-df8a06ff13af",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0460.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:32:24.647847Z",
+                "submit_date": "2022-02-07T09:33:11.586108Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "fs78wv5zu",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2617,
+                                "y": 1990,
+                                "width": 126,
+                                "height": 37
+                            }
+                        },
+                        {
+                            "id": "eq3kgxalo",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2396,
+                                "y": 1942,
+                                "width": 181,
+                                "height": 93
+                            }
+                        },
+                        {
+                            "id": "voevrogxt",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2125,
+                                "y": 1787,
+                                "width": 24,
+                                "height": 126
+                            }
+                        },
+                        {
+                            "id": "fawf28qv6",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1877,
+                                "y": 1842,
+                                "width": 163,
+                                "height": 147
+                            }
+                        },
+                        {
+                            "id": "381jup73a",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1688,
+                                "y": 1878,
+                                "width": 94,
+                                "height": 141
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "f97e05dc-4b87-4d14-816b-4ffba059bbe5"
+    },
+    {
+        "entity_id": "76b70026-ec8c-49c1-bda1-c88a2bf94d1b",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0447.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:33:11.733180Z",
+                "submit_date": "2022-02-07T09:34:24.995620Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "50eh7yqmh",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1764,
+                                "y": 1787,
+                                "width": 49,
+                                "height": 127
+                            }
+                        },
+                        {
+                            "id": "76pfecdjx",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1867,
+                                "y": 1501,
+                                "width": 160,
+                                "height": 108
+                            }
+                        },
+                        {
+                            "id": "qhuldade0",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2291,
+                                "y": 1691,
+                                "width": 45,
+                                "height": 211
+                            }
+                        },
+                        {
+                            "id": "i337z59f1",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2445,
+                                "y": 1636,
+                                "width": 185,
+                                "height": 163
+                            }
+                        },
+                        {
+                            "id": "hsrbtr9nc",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1943,
+                                "y": 1745,
+                                "width": 42,
+                                "height": 60
+                            }
+                        },
+                        {
+                            "id": "itd1a7q1z",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1988,
+                                "y": 1803,
+                                "width": 76,
+                                "height": 75
+                            }
+                        },
+                        {
+                            "id": "qu7la8h58",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2064,
+                                "y": 1872,
+                                "width": 91,
+                                "height": 76
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "2f5c417d-d461-445d-af8a-a3ad2e35e53a"
+    },
+    {
+        "entity_id": "a54817a3-1363-46ce-937e-81712dbd4b3d",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0453.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:34:25.128370Z",
+                "submit_date": "2022-02-07T09:34:58.545545Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "6gne4uhse",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1812,
+                                "y": 1814,
+                                "width": 48,
+                                "height": 104
+                            }
+                        },
+                        {
+                            "id": "cbuo88wvt",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2183,
+                                "y": 1464,
+                                "width": 166,
+                                "height": 133
+                            }
+                        },
+                        {
+                            "id": "16tc209mt",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2247,
+                                "y": 1698,
+                                "width": 163,
+                                "height": 296
+                            }
+                        },
+                        {
+                            "id": "1z29srwtr",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2526,
+                                "y": 1948,
+                                "width": 38,
+                                "height": 130
+                            }
+                        },
+                        {
+                            "id": "exbxlqk40",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2682,
+                                "y": 1381,
+                                "width": 179,
+                                "height": 178
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "dc6f20fd-1cba-409f-a9ec-559277176f1a"
+    },
+    {
+        "entity_id": "52313b32-5536-41b9-8e4c-8b7f8baf4975",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0459.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:34:58.726632Z",
+                "submit_date": "2022-02-07T09:35:50.175520Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "rbmdifw04",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2664,
+                                "y": 1566,
+                                "width": 91,
+                                "height": 71
+                            }
+                        },
+                        {
+                            "id": "ntumzwlxg",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2522,
+                                "y": 1743,
+                                "width": 80,
+                                "height": 148
+                            }
+                        },
+                        {
+                            "id": "wx2ppp8ks",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2225,
+                                "y": 1673,
+                                "width": 41,
+                                "height": 227
+                            }
+                        },
+                        {
+                            "id": "ygxq88utb",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2082,
+                                "y": 1781,
+                                "width": 171,
+                                "height": 95
+                            }
+                        },
+                        {
+                            "id": "thi3of6tt",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1844,
+                                "y": 1831,
+                                "width": 206,
+                                "height": 129
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "a1b71b67-cfee-4f5b-864c-d829e4046986"
+    },
+    {
+        "entity_id": "879fc1ed-16fe-4144-8523-8dcba5ee88e9",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0465.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:35:50.326387Z",
+                "submit_date": "2022-02-07T09:36:36.631252Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "s8yy7jepn",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2353,
+                                "y": 1542,
+                                "width": 77,
+                                "height": 106
+                            }
+                        },
+                        {
+                            "id": "5p2euhqx8",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2528,
+                                "y": 1725,
+                                "width": 112,
+                                "height": 133
+                            }
+                        },
+                        {
+                            "id": "ghsmch0yz",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2377,
+                                "y": 1685,
+                                "width": 96,
+                                "height": 201
+                            }
+                        },
+                        {
+                            "id": "vhwn50ouq",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2329,
+                                "y": 1680,
+                                "width": 210,
+                                "height": 48
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "0c7dca78-b110-478c-9a77-a4c17819b869"
+    },
+    {
+        "entity_id": "148a9794-3c81-4081-9a7b-da882cefe97d",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0466.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:36:36.762112Z",
+                "submit_date": "2022-02-07T09:37:10.258283Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "4a0wdtjx4",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2234,
+                                "y": 1553,
+                                "width": 32,
+                                "height": 34
+                            }
+                        },
+                        {
+                            "id": "jrpnqk2vq",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2258,
+                                "y": 1558,
+                                "width": 100,
+                                "height": 173
+                            }
+                        },
+                        {
+                            "id": "mp2ewe3en",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2103,
+                                "y": 1728,
+                                "width": 73,
+                                "height": 57
+                            }
+                        },
+                        {
+                            "id": "efekegsiz",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2180,
+                                "y": 1778,
+                                "width": 120,
+                                "height": 65
+                            }
+                        },
+                        {
+                            "id": "jj4mdc0b2",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2077,
+                                "y": 1883,
+                                "width": 242,
+                                "height": 48
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "f7b43430-2125-4f61-bdd5-862c364fccd2"
+    },
+    {
+        "entity_id": "c4588e73-3c1a-4c9c-99a1-973ebfacdfc1",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0471.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:37:10.398380Z",
+                "submit_date": "2022-02-07T09:38:02.732065Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "nvir1y1l9",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2267,
+                                "y": 1553,
+                                "width": 23,
+                                "height": 182
+                            }
+                        },
+                        {
+                            "id": "rx3p249sy",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2233,
+                                "y": 1583,
+                                "width": 113,
+                                "height": 71
+                            }
+                        },
+                        {
+                            "id": "fiawt9bne",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2185,
+                                "y": 1339,
+                                "width": 131,
+                                "height": 166
+                            }
+                        },
+                        {
+                            "id": "530xhc6az",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2265,
+                                "y": 1261,
+                                "width": 124,
+                                "height": 35
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "4172439c-f693-48f9-8678-a054a413f1f0"
+    },
+    {
+        "entity_id": "39ae4bed-7a6d-4ec7-a9b1-73d9dd190055",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0472.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:38:02.867676Z",
+                "submit_date": "2022-02-07T09:38:35.918930Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "qfzw67062",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1673,
+                                "y": 1757,
+                                "width": 153,
+                                "height": 134
+                            }
+                        },
+                        {
+                            "id": "fd04rvllk",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1898,
+                                "y": 1845,
+                                "width": 185,
+                                "height": 87
+                            }
+                        },
+                        {
+                            "id": "qtmv0rrmq",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2147,
+                                "y": 1844,
+                                "width": 47,
+                                "height": 110
+                            }
+                        },
+                        {
+                            "id": "zxk6535gs",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2246,
+                                "y": 1879,
+                                "width": 143,
+                                "height": 77
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "14f35279-7b03-4c9f-acd3-39c10e97d925"
+    },
+    {
+        "entity_id": "d2cd5b21-3e22-4f68-915f-d66051abf08e",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0478.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:38:36.067814Z",
+                "submit_date": "2022-02-07T09:39:50.001668Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "k736i4kcx",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2211,
+                                "y": 1833,
+                                "width": 129,
+                                "height": 53
+                            }
+                        },
+                        {
+                            "id": "u7a2ccdly",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2136,
+                                "y": 1734,
+                                "width": 37,
+                                "height": 81
+                            }
+                        },
+                        {
+                            "id": "qqobyk2z1",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2125,
+                                "y": 1821,
+                                "width": 36,
+                                "height": 67
+                            }
+                        },
+                        {
+                            "id": "kr30q1ql1",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2281,
+                                "y": 1731,
+                                "width": 22,
+                                "height": 74
+                            }
+                        },
+                        {
+                            "id": "mut4pv5kl",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2289,
+                                "y": 1586,
+                                "width": 27,
+                                "height": 131
+                            }
+                        },
+                        {
+                            "id": "c1ixpvfg8",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2320,
+                                "y": 1618,
+                                "width": 74,
+                                "height": 74
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "f2a069ae-77ed-41d1-a566-bf45f6aeae5b"
+    },
+    {
+        "entity_id": "1fe7d0f8-2f21-469c-b0f2-1a19942ad616",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0484.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:39:50.138681Z",
+                "submit_date": "2022-02-07T09:42:46.499630Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "b30739zm2",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2320,
+                                "y": 1692,
+                                "width": 34,
+                                "height": 68
+                            }
+                        },
+                        {
+                            "id": "d8t4p5r09",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2242,
+                                "y": 1610,
+                                "width": 123,
+                                "height": 103
+                            }
+                        },
+                        {
+                            "id": "7kwqgd2lp",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2244,
+                                "y": 1590,
+                                "width": 173,
+                                "height": 22
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "520eec4a-3ab4-4474-a793-a1a95cfec551"
+    },
+    {
+        "entity_id": "afe77059-2bd1-4a16-9170-208fae1608ad",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0476.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:42:46.639532Z",
+                "submit_date": "2022-02-07T09:43:15.524752Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "mj2jxg7ac",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2112,
+                                "y": 1951,
+                                "width": 37,
+                                "height": 115
+                            }
+                        },
+                        {
+                            "id": "kebo7udrs",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2397,
+                                "y": 1948,
+                                "width": 87,
+                                "height": 82
+                            }
+                        },
+                        {
+                            "id": "4305n283a",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2690,
+                                "y": 1913,
+                                "width": 84,
+                                "height": 53
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "48a400e7-573a-40c5-abc8-b79ccc3df4c5"
+    },
+    {
+        "entity_id": "8650791c-e501-47a5-a1ee-c80f68bf60dc",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0482.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:43:15.687618Z",
+                "submit_date": "2022-02-07T09:43:32.607120Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "5causfnzi",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2205,
+                                "y": 1697,
+                                "width": 54,
+                                "height": 88
+                            }
+                        },
+                        {
+                            "id": "gv5ulk1wa",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2337,
+                                "y": 1676,
+                                "width": 32,
+                                "height": 96
+                            }
+                        },
+                        {
+                            "id": "avcmvep1o",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2218,
+                                "y": 1851,
+                                "width": 103,
+                                "height": 42
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "8d2c6524-8fb3-4cd4-81a4-66004300a96e"
+    },
+    {
+        "entity_id": "0c0ca3db-79c4-4c31-808d-cd924caeaba1",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0477.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:43:32.750170Z",
+                "submit_date": "2022-02-07T09:44:08.004419Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "0xe4po182",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2207,
+                                "y": 1688,
+                                "width": 140,
+                                "height": 49
+                            }
+                        },
+                        {
+                            "id": "b00ka6ztc",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2332,
+                                "y": 1824,
+                                "width": 235,
+                                "height": 38
+                            }
+                        },
+                        {
+                            "id": "sbsjbsc7p",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2236,
+                                "y": 1834,
+                                "width": 133,
+                                "height": 89
+                            }
+                        },
+                        {
+                            "id": "l3t01gwwj",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2246,
+                                "y": 1790,
+                                "width": 156,
+                                "height": 120
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "4d5d1777-1e20-4cb6-b678-061e384e333d"
+    },
+    {
+        "entity_id": "b48da9ee-ee23-4d28-93b8-9679bd860a8f",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0483.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:44:08.138891Z",
+                "submit_date": "2022-02-07T09:44:47.429806Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "5x454voi9",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2295,
+                                "y": 1782,
+                                "width": 118,
+                                "height": 38
+                            }
+                        },
+                        {
+                            "id": "iedt9ilj3",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2327,
+                                "y": 1823,
+                                "width": 82,
+                                "height": 29
+                            }
+                        },
+                        {
+                            "id": "fxbvl6yrd",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2305,
+                                "y": 1588,
+                                "width": 119,
+                                "height": 109
+                            }
+                        },
+                        {
+                            "id": "98n44esx7",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2274,
+                                "y": 1470,
+                                "width": 179,
+                                "height": 41
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "4e925bef-1487-4fca-acbd-fbcba02e7f11"
+    },
+    {
+        "entity_id": "6694d909-5759-4eed-9e1c-2b0a6c7cc44b",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0488.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:44:47.568548Z",
+                "submit_date": "2022-02-07T09:45:09.817435Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "jvsf4wv6d",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2146,
+                                "y": 1824,
+                                "width": 126,
+                                "height": 87
+                            }
+                        },
+                        {
+                            "id": "mf1byb58j",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2285,
+                                "y": 1847,
+                                "width": 82,
+                                "height": 109
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "717d1476-7a7e-4c01-9636-9e767ebd8a6e"
+    },
+    {
+        "entity_id": "41e47c58-f7ae-4ad5-99c6-c41480fe4b6d",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0494.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:45:09.950615Z",
+                "submit_date": "2022-02-07T09:45:50.461009Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "9hbfk9rbz",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2835,
+                                "y": 882,
+                                "width": 86,
+                                "height": 149
+                            }
+                        },
+                        {
+                            "id": "7gfm8wfoq",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2716,
+                                "y": 1554,
+                                "width": 135,
+                                "height": 49
+                            }
+                        },
+                        {
+                            "id": "749jgw2i5",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2327,
+                                "y": 1147,
+                                "width": 186,
+                                "height": 181
+                            }
+                        },
+                        {
+                            "id": "86huq9270",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2524,
+                                "y": 1300,
+                                "width": 170,
+                                "height": 140
+                            }
+                        },
+                        {
+                            "id": "dvbmqi0js",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1887,
+                                "y": 936,
+                                "width": 62,
+                                "height": 140
+                            }
+                        },
+                        {
+                            "id": "dj5cpy9r2",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2003,
+                                "y": 1463,
+                                "width": 100,
+                                "height": 435
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "5c6b6562-e737-445f-a027-9548643ed5b3"
+    },
+    {
+        "entity_id": "6eabd9bf-7270-4638-80a5-8947e589cff4",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0489.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:45:50.600819Z",
+                "submit_date": "2022-02-07T09:46:08.767319Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "oen1bsv7t",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2229,
+                                "y": 1812,
+                                "width": 75,
+                                "height": 58
+                            }
+                        },
+                        {
+                            "id": "uowdtg6xm",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2181,
+                                "y": 1868,
+                                "width": 44,
+                                "height": 30
+                            }
+                        },
+                        {
+                            "id": "mo590yh97",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2172,
+                                "y": 1643,
+                                "width": 116,
+                                "height": 88
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "d40eedcd-1e34-4789-beec-f0e6e69e1fd6"
+    },
+    {
+        "entity_id": "c2b4de9f-c729-4ec9-9168-5eb21e5d89b5",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0490.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:46:08.899759Z",
+                "submit_date": "2022-02-07T09:46:25.299680Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "faljm5rja",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2150,
+                                "y": 1794,
+                                "width": 48,
+                                "height": 139
+                            }
+                        },
+                        {
+                            "id": "cburtx1ge",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2257,
+                                "y": 1687,
+                                "width": 65,
+                                "height": 168
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "47a65619-4d56-436d-aae3-ac1ac18bada0"
+    },
+    {
+        "entity_id": "ca221a91-c1b3-44a4-a8d9-4cf9dcd2a705",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0435.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:46:25.449970Z",
+                "submit_date": "2022-02-07T09:47:06.412459Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "h8t65lspm",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2705,
+                                "y": 1773,
+                                "width": 93,
+                                "height": 58
+                            }
+                        },
+                        {
+                            "id": "zjsq3n0j1",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2355,
+                                "y": 1747,
+                                "width": 193,
+                                "height": 51
+                            }
+                        },
+                        {
+                            "id": "6dzb7lkn9",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2304,
+                                "y": 1891,
+                                "width": 204,
+                                "height": 275
+                            }
+                        },
+                        {
+                            "id": "wsjcxjkzx",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1798,
+                                "y": 1888,
+                                "width": 233,
+                                "height": 226
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "18a878f6-d40f-42fb-b5ee-d13580b2e0f0"
+    },
+    {
+        "entity_id": "674c4239-017e-4bd2-aaaf-7577ecad6ddb",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0440.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:47:06.542934Z",
+                "submit_date": "2022-02-07T09:47:56.340251Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "2v6gw35xk",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2136,
+                                "y": 1652,
+                                "width": 132,
+                                "height": 43
+                            }
+                        },
+                        {
+                            "id": "j4rz9mar0",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2308,
+                                "y": 1574,
+                                "width": 144,
+                                "height": 83
+                            }
+                        },
+                        {
+                            "id": "oetetezy9",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2121,
+                                "y": 1839,
+                                "width": 146,
+                                "height": 54
+                            }
+                        },
+                        {
+                            "id": "ygmwcteiz",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2165,
+                                "y": 1781,
+                                "width": 115,
+                                "height": 211
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "67b9457c-4e98-445c-a013-8d612257bd63"
+    },
+    {
+        "entity_id": "376e6136-7ba1-41bf-9bac-676d35f55eb2",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0445.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:47:56.481749Z",
+                "submit_date": "2022-02-07T09:48:28.853851Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "e4pg6vlyc",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2088,
+                                "y": 1507,
+                                "width": 178,
+                                "height": 80
+                            }
+                        },
+                        {
+                            "id": "d7kcq1hcy",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2144,
+                                "y": 1575,
+                                "width": 142,
+                                "height": 188
+                            }
+                        },
+                        {
+                            "id": "za1yqbv0z",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2119,
+                                "y": 1649,
+                                "width": 27,
+                                "height": 244
+                            }
+                        },
+                        {
+                            "id": "46chzy0vp",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2000,
+                                "y": 1615,
+                                "width": 87,
+                                "height": 187
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "9a4a4a0b-e0de-4698-800a-94e503c5e7d8"
+    },
+    {
+        "entity_id": "c5b00fe0-9c99-4056-b1ac-e2974031cb34",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0451.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:48:28.986519Z",
+                "submit_date": "2022-02-07T09:49:07.075913Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "6sy1if13a",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2032,
+                                "y": 1398,
+                                "width": 29,
+                                "height": 126
+                            }
+                        },
+                        {
+                            "id": "fmreottuo",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1873,
+                                "y": 1676,
+                                "width": 193,
+                                "height": 41
+                            }
+                        },
+                        {
+                            "id": "gsvpbocod",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2163,
+                                "y": 1775,
+                                "width": 97,
+                                "height": 110
+                            }
+                        },
+                        {
+                            "id": "7ouoqi9yn",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2513,
+                                "y": 1757,
+                                "width": 62,
+                                "height": 276
+                            }
+                        },
+                        {
+                            "id": "c07aq1vka",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2416,
+                                "y": 1852,
+                                "width": 212,
+                                "height": 49
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "e9aa46b5-8203-49e8-95a3-d59f11177b48"
+    },
+    {
+        "entity_id": "8e801e93-934e-48c8-9f40-567a5bde6332",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0457.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:49:07.236609Z",
+                "submit_date": "2022-02-07T09:50:00.512115Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "5xp8u38st",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2295,
+                                "y": 1479,
+                                "width": 109,
+                                "height": 48
+                            }
+                        },
+                        {
+                            "id": "588t3hoj1",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1919,
+                                "y": 1532,
+                                "width": 133,
+                                "height": 223
+                            }
+                        },
+                        {
+                            "id": "jjmtokpig",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2284,
+                                "y": 1656,
+                                "width": 153,
+                                "height": 168
+                            }
+                        },
+                        {
+                            "id": "rk92thtti",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1759,
+                                "y": 1879,
+                                "width": 177,
+                                "height": 140
+                            }
+                        },
+                        {
+                            "id": "pzypqbmfw",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2441,
+                                "y": 1936,
+                                "width": 127,
+                                "height": 129
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "d9c4bee4-bdfb-4e6f-bccd-a959f2cb693b"
+    },
+    {
+        "entity_id": "6959fb3d-cb1c-4ac1-86c6-ecfa258849b8",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0463.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:50:00.660136Z",
+                "submit_date": "2022-02-07T09:50:55.657720Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "dhqh279rl",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2170,
+                                "y": 1555,
+                                "width": 182,
+                                "height": 45
+                            }
+                        },
+                        {
+                            "id": "0vysdbm4p",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2266,
+                                "y": 1683,
+                                "width": 125,
+                                "height": 25
+                            }
+                        },
+                        {
+                            "id": "28em2dpmo",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2216,
+                                "y": 1708,
+                                "width": 179,
+                                "height": 21
+                            }
+                        },
+                        {
+                            "id": "cmi3z5zhd",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2296,
+                                "y": 1742,
+                                "width": 43,
+                                "height": 133
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "a743bd60-064c-4fb7-acb8-27557843a06c"
+    },
+    {
+        "entity_id": "dc8f2746-102e-48c4-92f0-b4c99f3fdd85",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0469.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:50:55.792774Z",
+                "submit_date": "2022-02-07T09:51:31.884087Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "rit71n6q3",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2076,
+                                "y": 1990,
+                                "width": 88,
+                                "height": 48
+                            }
+                        },
+                        {
+                            "id": "7qtvntdlk",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2155,
+                                "y": 1980,
+                                "width": 148,
+                                "height": 30
+                            }
+                        },
+                        {
+                            "id": "p25efvvla",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2312,
+                                "y": 1835,
+                                "width": 120,
+                                "height": 82
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "d30e4eb4-9a85-485f-8a65-b5e37786f56f"
+    },
+    {
+        "entity_id": "0cf8d646-a369-4ff8-87e5-d7ecb8749fd1",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0475.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:51:32.022270Z",
+                "submit_date": "2022-02-07T09:51:57.715758Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "kjyak13cx",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2373,
+                                "y": 1901,
+                                "width": 32,
+                                "height": 114
+                            }
+                        },
+                        {
+                            "id": "obwnm1mhq",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2013,
+                                "y": 1949,
+                                "width": 76,
+                                "height": 56
+                            }
+                        },
+                        {
+                            "id": "ljjco22iu",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1898,
+                                "y": 1915,
+                                "width": 79,
+                                "height": 88
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "ebcd3990-61f7-46ce-868b-a8e7d5442108"
+    },
+    {
+        "entity_id": "eff8cfe1-da8f-4fce-96a0-9cbbcf75639e",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0481.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:51:57.852581Z",
+                "submit_date": "2022-02-07T09:52:16.574252Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "ll74ubqa2",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2280,
+                                "y": 1648,
+                                "width": 84,
+                                "height": 64
+                            }
+                        },
+                        {
+                            "id": "7cr2v5w0g",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2235,
+                                "y": 1741,
+                                "width": 30,
+                                "height": 138
+                            }
+                        },
+                        {
+                            "id": "1umf642pu",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2325,
+                                "y": 1746,
+                                "width": 26,
+                                "height": 112
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "3a1e0cc5-1931-42e4-8724-962fc6a15516"
+    },
+    {
+        "entity_id": "31412f85-fc1d-49dc-8e98-31fd050ce87a",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0487.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:52:16.714881Z",
+                "submit_date": "2022-02-07T09:52:49.767343Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "u4gcniifl",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2298,
+                                "y": 1917,
+                                "width": 110,
+                                "height": 33
+                            }
+                        },
+                        {
+                            "id": "e6157lq62",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2335,
+                                "y": 1844,
+                                "width": 102,
+                                "height": 13
+                            }
+                        },
+                        {
+                            "id": "n6o5g04pl",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2346,
+                                "y": 1862,
+                                "width": 97,
+                                "height": 24
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "b29bf469-6069-4550-945e-d2e818251c57"
+    },
+    {
+        "entity_id": "05bcd1e2-3738-4a12-855d-0716ad58b8af",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0493.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:52:49.914964Z",
+                "submit_date": "2022-02-07T09:53:16.532573Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "43d6x0kue",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1682,
+                                "y": 1492,
+                                "width": 73,
+                                "height": 69
+                            }
+                        },
+                        {
+                            "id": "xiyvebtlc",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1978,
+                                "y": 1067,
+                                "width": 69,
+                                "height": 98
+                            }
+                        },
+                        {
+                            "id": "k1q9jv2j1",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2292,
+                                "y": 988,
+                                "width": 97,
+                                "height": 61
+                            }
+                        },
+                        {
+                            "id": "p0adws8lf",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2815,
+                                "y": 1486,
+                                "width": 209,
+                                "height": 43
+                            }
+                        },
+                        {
+                            "id": "yy6pda6il",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2435,
+                                "y": 1309,
+                                "width": 258,
+                                "height": 380
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "8cd6eb79-f328-4e94-8666-3f2bd53c3c41"
+    },
+    {
+        "entity_id": "f2095db1-b6dc-4c94-9b1f-3413f49a4bfd",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0429.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:53:16.695980Z",
+                "submit_date": "2022-02-07T09:54:01.994966Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "bzdxbh9dr",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2494,
+                                "y": 1582,
+                                "width": 101,
+                                "height": 17
+                            }
+                        },
+                        {
+                            "id": "yjmlqol6h",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2333,
+                                "y": 1575,
+                                "width": 131,
+                                "height": 123
+                            }
+                        },
+                        {
+                            "id": "awyif3urw",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2452,
+                                "y": 1679,
+                                "width": 165,
+                                "height": 244
+                            }
+                        },
+                        {
+                            "id": "kauh61pdm",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2342,
+                                "y": 1805,
+                                "width": 275,
+                                "height": 31
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "dd046c8b-f7b1-43f7-af9e-16d604d0b54e"
+    },
+    {
+        "entity_id": "f822f7d2-32d6-4d82-ac58-4f285cc0dd3d",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0434.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:54:02.124701Z",
+                "submit_date": "2022-02-07T09:55:23.237899Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "0zd2fhlpi",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1849,
+                                "y": 1716,
+                                "width": 160,
+                                "height": 73
+                            }
+                        },
+                        {
+                            "id": "nclfmhgw1",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1744,
+                                "y": 1662,
+                                "width": 43,
+                                "height": 107
+                            }
+                        },
+                        {
+                            "id": "65f54ij6n",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1776,
+                                "y": 1793,
+                                "width": 37,
+                                "height": 84
+                            }
+                        },
+                        {
+                            "id": "g3a3ro0tq",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2457,
+                                "y": 1973,
+                                "width": 138,
+                                "height": 97
+                            }
+                        },
+                        {
+                            "id": "qermhw04f",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1873,
+                                "y": 1532,
+                                "width": 60,
+                                "height": 93
+                            }
+                        },
+                        {
+                            "id": "lx2feq0f5",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1935,
+                                "y": 1399,
+                                "width": 77,
+                                "height": 138
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "5603e28d-7015-4830-ae9f-fbeab176af01"
+    },
+    {
+        "entity_id": "de8dde3b-6d80-4312-922d-b4da1c4e36a6",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0444.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:55:23.373080Z",
+                "submit_date": "2022-02-07T09:55:52.070092Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "ds3j8nfpg",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1941,
+                                "y": 1479,
+                                "width": 70,
+                                "height": 116
+                            }
+                        },
+                        {
+                            "id": "iaglirvcc",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2072,
+                                "y": 1802,
+                                "width": 185,
+                                "height": 112
+                            }
+                        },
+                        {
+                            "id": "aomzd9p2l",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2338,
+                                "y": 1445,
+                                "width": 111,
+                                "height": 157
+                            }
+                        },
+                        {
+                            "id": "voqz4oj96",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2591,
+                                "y": 1529,
+                                "width": 67,
+                                "height": 230
+                            }
+                        },
+                        {
+                            "id": "zftechrf7",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2435,
+                                "y": 1789,
+                                "width": 177,
+                                "height": 99
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "34f5f42b-db42-40bd-bf14-60374f610aea"
+    },
+    {
+        "entity_id": "a044f57f-31b7-4a64-be1f-37c75f3d0217",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0450.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:55:52.207886Z",
+                "submit_date": "2022-02-07T09:56:27.785775Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "91toj5oxf",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2762,
+                                "y": 1389,
+                                "width": 110,
+                                "height": 52
+                            }
+                        },
+                        {
+                            "id": "paale3hm0",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2700,
+                                "y": 1587,
+                                "width": 127,
+                                "height": 110
+                            }
+                        },
+                        {
+                            "id": "0yichd9s0",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2291,
+                                "y": 1796,
+                                "width": 166,
+                                "height": 152
+                            }
+                        },
+                        {
+                            "id": "dssp864zu",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1918,
+                                "y": 1840,
+                                "width": 169,
+                                "height": 210
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "a7082bdc-3105-4611-ab22-97c9223f2597"
+    },
+    {
+        "entity_id": "75b48711-aeb4-4fb3-85ef-c1f9edb42fb0",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0456.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:56:27.923118Z",
+                "submit_date": "2022-02-07T09:57:02.337577Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "t72u6ojey",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1984,
+                                "y": 1326,
+                                "width": 189,
+                                "height": 106
+                            }
+                        },
+                        {
+                            "id": "0k9i5qvrk",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2501,
+                                "y": 1492,
+                                "width": 100,
+                                "height": 106
+                            }
+                        },
+                        {
+                            "id": "689de46kd",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2698,
+                                "y": 1679,
+                                "width": 160,
+                                "height": 46
+                            }
+                        },
+                        {
+                            "id": "npm8k56gj",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1836,
+                                "y": 1681,
+                                "width": 134,
+                                "height": 153
+                            }
+                        },
+                        {
+                            "id": "rwcw5pa4l",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2262,
+                                "y": 1542,
+                                "width": 187,
+                                "height": 330
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "ab1b3d89-9a8e-4c62-8090-17b2625da8de"
+    },
+    {
+        "entity_id": "ed2fc980-a718-4f7c-80bd-91ea3e562ee1",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0462.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:57:02.476689Z",
+                "submit_date": "2022-02-07T09:57:30.036785Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "zz0ym1otf",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2306,
+                                "y": 1611,
+                                "width": 44,
+                                "height": 134
+                            }
+                        },
+                        {
+                            "id": "ipeznp0ts",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2307,
+                                "y": 1336,
+                                "width": 80,
+                                "height": 70
+                            }
+                        },
+                        {
+                            "id": "ma1qd3c9k",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2286,
+                                "y": 1240,
+                                "width": 72,
+                                "height": 33
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "5930f5f5-5cfa-41cd-93f4-aaa4d02a3820"
+    },
+    {
+        "entity_id": "4e3dc2a6-b3f4-4a28-a7e3-000a4d30ff64",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0468.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:57:30.171632Z",
+                "submit_date": "2022-02-07T09:58:00.706727Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "mta8c21ji",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2162,
+                                "y": 1652,
+                                "width": 73,
+                                "height": 59
+                            }
+                        },
+                        {
+                            "id": "n82eeyo0i",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2260,
+                                "y": 1758,
+                                "width": 62,
+                                "height": 54
+                            }
+                        },
+                        {
+                            "id": "6he3zy1hx",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2087,
+                                "y": 1796,
+                                "width": 19,
+                                "height": 82
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "f627ce09-29b7-442a-b52d-4bd4ef0d95fc"
+    },
+    {
+        "entity_id": "608786eb-daa8-4a75-bfb2-194507320617",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0474.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:58:00.835653Z",
+                "submit_date": "2022-02-07T09:59:23.343269Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "c425nwe19",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1790,
+                                "y": 1900,
+                                "width": 105,
+                                "height": 84
+                            }
+                        },
+                        {
+                            "id": "ucibm8cwd",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2102,
+                                "y": 1816,
+                                "width": 33,
+                                "height": 42
+                            }
+                        },
+                        {
+                            "id": "5rd20ko7t",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2077,
+                                "y": 1863,
+                                "width": 38,
+                                "height": 29
+                            }
+                        },
+                        {
+                            "id": "vr8lblzmf",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2309,
+                                "y": 1863,
+                                "width": 175,
+                                "height": 24
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "9f8fb425-c0e7-4efc-ac37-51f15de2261e"
+    },
+    {
+        "entity_id": "d2b34304-2a33-4b67-a6f0-65da95350f32",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0480.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:59:23.487950Z",
+                "submit_date": "2022-02-07T09:59:38.347785Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "0nuypng3a",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2225,
+                                "y": 1738,
+                                "width": 42,
+                                "height": 199
+                            }
+                        },
+                        {
+                            "id": "svz50eet4",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2333,
+                                "y": 1703,
+                                "width": 51,
+                                "height": 99
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "711367f8-d321-4f11-b2b6-03ad46571636"
+    },
+    {
+        "entity_id": "b26047a9-4941-433f-9bc9-805b9b8fdd2f",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0486.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T09:59:38.484009Z",
+                "submit_date": "2022-02-07T10:00:28.099386Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "nwqgs0f65",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2272,
+                                "y": 1816,
+                                "width": 63,
+                                "height": 99
+                            }
+                        },
+                        {
+                            "id": "6fzzl0z35",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2310,
+                                "y": 1946,
+                                "width": 85,
+                                "height": 64
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "113c37c4-e343-4f6e-911a-363c45cca8df"
+    },
+    {
+        "entity_id": "b23cec0d-8898-4f8a-9225-e23bf5e438ae",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0492.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T10:00:28.230525Z",
+                "submit_date": "2022-02-07T10:01:19.170713Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "l7vggwsn4",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2141,
+                                "y": 1611,
+                                "width": 57,
+                                "height": 146
+                            }
+                        },
+                        {
+                            "id": "xw7tucp9h",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2148,
+                                "y": 1402,
+                                "width": 147,
+                                "height": 89
+                            }
+                        },
+                        {
+                            "id": "b94e5e0j8",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2030,
+                                "y": 1480,
+                                "width": 118,
+                                "height": 52
+                            }
+                        },
+                        {
+                            "id": "esz87w7a1",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2036,
+                                "y": 1749,
+                                "width": 96,
+                                "height": 120
+                            }
+                        },
+                        {
+                            "id": "x6t0bwhkl",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2136,
+                                "y": 1865,
+                                "width": 123,
+                                "height": 149
+                            }
+                        },
+                        {
+                            "id": "9mibqip5o",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1729,
+                                "y": 1527,
+                                "width": 117,
+                                "height": 196
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "9646aea9-6626-4055-a788-d66abcf5d64e"
+    },
+    {
+        "entity_id": "83e7f5d0-493f-4e6e-ab58-2a79f15288ee",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0431.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T10:01:19.321850Z",
+                "submit_date": "2022-02-07T10:01:52.603083Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "21gzu5f7y",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2130,
+                                "y": 1797,
+                                "width": 223,
+                                "height": 82
+                            }
+                        },
+                        {
+                            "id": "1yh4n9kn5",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2125,
+                                "y": 1940,
+                                "width": 191,
+                                "height": 171
+                            }
+                        },
+                        {
+                            "id": "tpxdh5w7d",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2448,
+                                "y": 1957,
+                                "width": 127,
+                                "height": 127
+                            }
+                        },
+                        {
+                            "id": "hfn5bwigp",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2469,
+                                "y": 1855,
+                                "width": 108,
+                                "height": 116
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "ae9e0610-e4a6-411d-9742-162118405886"
+    },
+    {
+        "entity_id": "b90a3dc0-ceda-427d-b556-c07247f40c87",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0437.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T10:01:52.742742Z",
+                "submit_date": "2022-02-07T10:05:43.748534Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "0pkpdxdcx",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2939,
+                                "y": 1998,
+                                "width": 22,
+                                "height": 118
+                            }
+                        },
+                        {
+                            "id": "b9xujuwg6",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2912,
+                                "y": 2005,
+                                "width": 26,
+                                "height": 115
+                            }
+                        },
+                        {
+                            "id": "a2hjplx04",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2476,
+                                "y": 1956,
+                                "width": 243,
+                                "height": 110
+                            }
+                        },
+                        {
+                            "id": "aygqrnao8",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2448,
+                                "y": 1734,
+                                "width": 108,
+                                "height": 101
+                            }
+                        },
+                        {
+                            "id": "fzn8i0d4f",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1999,
+                                "y": 1754,
+                                "width": 142,
+                                "height": 115
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "ec5b05fe-3dee-4fe8-989a-c09a0dc0ae3d"
+    },
+    {
+        "entity_id": "71fdbc49-6309-4949-a185-cad372c32f16",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0442.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T10:05:43.883645Z",
+                "submit_date": "2022-02-07T10:06:31.293146Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "d3pfvjip8",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1936,
+                                "y": 1511,
+                                "width": 203,
+                                "height": 43
+                            }
+                        },
+                        {
+                            "id": "1bnbgzjlb",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2450,
+                                "y": 1614,
+                                "width": 254,
+                                "height": 81
+                            }
+                        },
+                        {
+                            "id": "q5mbfw5o2",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2598,
+                                "y": 1543,
+                                "width": 103,
+                                "height": 97
+                            }
+                        },
+                        {
+                            "id": "ew7on3qlg",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2307,
+                                "y": 1362,
+                                "width": 249,
+                                "height": 100
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "fca0dbeb-8637-4c6c-828a-dcb0104d26a7"
+    },
+    {
+        "entity_id": "0bc5a4ce-f801-4ce6-898a-f644b105ad06",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0430.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T10:06:31.428190Z",
+                "submit_date": "2022-02-07T10:07:09.491701Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "kc9sjt763",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2140,
+                                "y": 1971,
+                                "width": 178,
+                                "height": 137
+                            }
+                        },
+                        {
+                            "id": "3l4ta7qzd",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2270,
+                                "y": 1796,
+                                "width": 248,
+                                "height": 71
+                            }
+                        },
+                        {
+                            "id": "nsd3fy4h6",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2373,
+                                "y": 1900,
+                                "width": 38,
+                                "height": 91
+                            }
+                        },
+                        {
+                            "id": "h9vlh48ch",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2449,
+                                "y": 1938,
+                                "width": 109,
+                                "height": 164
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "c35b70ff-0900-4d90-96f0-387e28b47798"
+    },
+    {
+        "entity_id": "7472691e-8c67-49b4-a55a-0171a85f4d79",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0436.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T10:07:09.626429Z",
+                "submit_date": "2022-02-07T10:07:48.396852Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "mfmkl4mnf",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2089,
+                                "y": 1764,
+                                "width": 123,
+                                "height": 207
+                            }
+                        },
+                        {
+                            "id": "utvbcvy6m",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2243,
+                                "y": 1449,
+                                "width": 330,
+                                "height": 165
+                            }
+                        },
+                        {
+                            "id": "gb3fbkq8p",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2252,
+                                "y": 1064,
+                                "width": 119,
+                                "height": 130
+                            }
+                        },
+                        {
+                            "id": "k0b5es0i4",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2142,
+                                "y": 875,
+                                "width": 88,
+                                "height": 29
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "b0f70295-26c4-4e36-a96f-582547af1594"
+    },
+    {
+        "entity_id": "c89add73-91c0-415a-b6d6-4a48e62e0a83",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0441.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T10:07:48.526010Z",
+                "submit_date": "2022-02-07T10:08:54.967602Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "2nmculyvs",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2165,
+                                "y": 1902,
+                                "width": 107,
+                                "height": 113
+                            }
+                        },
+                        {
+                            "id": "hs3l4pvtq",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2502,
+                                "y": 1489,
+                                "width": 113,
+                                "height": 97
+                            }
+                        },
+                        {
+                            "id": "9bjc7tai2",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2618,
+                                "y": 1566,
+                                "width": 84,
+                                "height": 78
+                            }
+                        },
+                        {
+                            "id": "3temqul2d",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2671,
+                                "y": 1679,
+                                "width": 26,
+                                "height": 87
+                            }
+                        },
+                        {
+                            "id": "43hi41ekw",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2669,
+                                "y": 1768,
+                                "width": 22,
+                                "height": 21
+                            }
+                        },
+                        {
+                            "id": "ia5s20vss",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2673,
+                                "y": 1787,
+                                "width": 16,
+                                "height": 23
+                            }
+                        },
+                        {
+                            "id": "qs71a3fyr",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2674,
+                                "y": 1812,
+                                "width": 19,
+                                "height": 83
+                            }
+                        },
+                        {
+                            "id": "g8rwt6s4a",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2605,
+                                "y": 1689,
+                                "width": 19,
+                                "height": 24
+                            }
+                        },
+                        {
+                            "id": "wsdu1h0tt",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2546,
+                                "y": 1707,
+                                "width": 59,
+                                "height": 90
+                            }
+                        },
+                        {
+                            "id": "gtny65gw0",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2454,
+                                "y": 1789,
+                                "width": 87,
+                                "height": 126
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "7221ca4c-1e1b-4887-b60b-90f78d8c97d7"
+    },
+    {
+        "entity_id": "4702a129-3031-4a3c-a740-8f7e351df801",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0446.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T10:08:55.105372Z",
+                "submit_date": "2022-02-07T10:09:48.026231Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "dlxk2qe2d",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2109,
+                                "y": 1779,
+                                "width": 132,
+                                "height": 35
+                            }
+                        },
+                        {
+                            "id": "q38dsq822",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2102,
+                                "y": 1458,
+                                "width": 99,
+                                "height": 191
+                            }
+                        },
+                        {
+                            "id": "53qp4pzi4",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2264,
+                                "y": 1432,
+                                "width": 107,
+                                "height": 153
+                            }
+                        },
+                        {
+                            "id": "8thfkiirj",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2470,
+                                "y": 1540,
+                                "width": 63,
+                                "height": 45
+                            }
+                        },
+                        {
+                            "id": "ci3g3rf1d",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2444,
+                                "y": 1515,
+                                "width": 104,
+                                "height": 50
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "ceed1c7d-7a48-418d-80b4-adf18d1280e1"
+    },
+    {
+        "entity_id": "5ba5394a-da1e-4567-8ed1-15ed2d7c7464",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0452.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T10:09:48.163914Z",
+                "submit_date": "2022-02-07T10:10:34.269922Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "8wi81qt1y",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1657,
+                                "y": 1301,
+                                "width": 144,
+                                "height": 141
+                            }
+                        },
+                        {
+                            "id": "zs0vnl5n6",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1838,
+                                "y": 1706,
+                                "width": 146,
+                                "height": 51
+                            }
+                        },
+                        {
+                            "id": "df7dyva23",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2011,
+                                "y": 1393,
+                                "width": 156,
+                                "height": 165
+                            }
+                        },
+                        {
+                            "id": "gd901zdhn",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2475,
+                                "y": 1891,
+                                "width": 225,
+                                "height": 118
+                            }
+                        },
+                        {
+                            "id": "tuo54tqja",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2195,
+                                "y": 1686,
+                                "width": 99,
+                                "height": 127
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "8ef59f03-daf9-4bc7-adc8-274fc3540654"
+    },
+    {
+        "entity_id": "a3adb990-71ff-482f-a271-ed618ed5fb12",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0458.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T10:10:34.409078Z",
+                "submit_date": "2022-02-07T10:11:17.883142Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "q7hn3jkbf",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1971,
+                                "y": 1881,
+                                "width": 168,
+                                "height": 210
+                            }
+                        },
+                        {
+                            "id": "5df4hatdd",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2376,
+                                "y": 1812,
+                                "width": 46,
+                                "height": 185
+                            }
+                        },
+                        {
+                            "id": "0xpkvolrh",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2176,
+                                "y": 1565,
+                                "width": 125,
+                                "height": 23
+                            }
+                        },
+                        {
+                            "id": "dotjkt3po",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2496,
+                                "y": 1498,
+                                "width": 139,
+                                "height": 81
+                            }
+                        },
+                        {
+                            "id": "kzkcp65x5",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2490,
+                                "y": 1426,
+                                "width": 265,
+                                "height": 292
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "83274218-6103-469d-bbdd-30356d5c8341"
+    },
+    {
+        "entity_id": "5b7e4cf4-2803-45d7-8cff-ccdde118979e",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0464.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T10:11:18.014339Z",
+                "submit_date": "2022-02-07T10:11:47.910289Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "yhx4ae92j",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2232,
+                                "y": 1688,
+                                "width": 157,
+                                "height": 37
+                            }
+                        },
+                        {
+                            "id": "qktbnp7om",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2230,
+                                "y": 1605,
+                                "width": 119,
+                                "height": 37
+                            }
+                        },
+                        {
+                            "id": "9k8mt5hm1",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2276,
+                                "y": 1454,
+                                "width": 122,
+                                "height": 36
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "e4cc22a3-d1b7-451f-8891-532ea7c3d4fb"
+    },
+    {
+        "entity_id": "1ffcf92d-4eca-4ee2-b52b-4a850f323908",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0470.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T10:11:48.045354Z",
+                "submit_date": "2022-02-07T10:12:40.400983Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "giphq1gn1",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2088,
+                                "y": 1733,
+                                "width": 61,
+                                "height": 114
+                            }
+                        },
+                        {
+                            "id": "80u61r1ao",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2335,
+                                "y": 1768,
+                                "width": 55,
+                                "height": 77
+                            }
+                        },
+                        {
+                            "id": "3h6eazlzm",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2151,
+                                "y": 1873,
+                                "width": 74,
+                                "height": 112
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "f63af3a9-ff0e-4f7d-b3f9-7005fa8e6e46"
+    },
+    {
+        "entity_id": "465655c9-a118-4657-9c44-81c41b5bf6fc",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0427.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T10:12:40.528915Z",
+                "submit_date": "2022-02-07T10:13:04.337785Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "b6nwk4m18",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2184,
+                                "y": 1736,
+                                "width": 160,
+                                "height": 32
+                            }
+                        },
+                        {
+                            "id": "0lcdki3of",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1850,
+                                "y": 1564,
+                                "width": 117,
+                                "height": 188
+                            }
+                        },
+                        {
+                            "id": "srqzrp0eh",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2288,
+                                "y": 1894,
+                                "width": 40,
+                                "height": 144
+                            }
+                        },
+                        {
+                            "id": "2ehiawt9w",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2133,
+                                "y": 1928,
+                                "width": 306,
+                                "height": 91
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "d5bfd666-47df-48c0-9c01-a24abd31b98a"
+    },
+    {
+        "entity_id": "32b7af76-7780-4afc-84b5-79b3773d9e37",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0432.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T10:13:04.473647Z",
+                "submit_date": "2022-02-07T10:13:22.968360Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "pknkjaqk0",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2136,
+                                "y": 1574,
+                                "width": 33,
+                                "height": 86
+                            }
+                        },
+                        {
+                            "id": "bqjo9bfj2",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2243,
+                                "y": 1711,
+                                "width": 232,
+                                "height": 85
+                            }
+                        },
+                        {
+                            "id": "o9md4t2p8",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2169,
+                                "y": 1858,
+                                "width": 155,
+                                "height": 156
+                            }
+                        },
+                        {
+                            "id": "b85ent591",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2308,
+                                "y": 2044,
+                                "width": 168,
+                                "height": 83
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "c238b353-31d2-432e-9a87-e70e90763f9f"
+    },
+    {
+        "entity_id": "529285b2-7b71-40e4-9463-05c105f07aa4",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0438.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T10:13:23.104400Z",
+                "submit_date": "2022-02-07T10:14:33.888366Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "o3lvmo0t4",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2232,
+                                "y": 1787,
+                                "width": 95,
+                                "height": 81
+                            }
+                        },
+                        {
+                            "id": "jmrkqgdk4",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2620,
+                                "y": 1919,
+                                "width": 208,
+                                "height": 133
+                            }
+                        },
+                        {
+                            "id": "33oai9sb1",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2839,
+                                "y": 1984,
+                                "width": 36,
+                                "height": 93
+                            }
+                        },
+                        {
+                            "id": "ce38mbl8l",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2927,
+                                "y": 1911,
+                                "width": 67,
+                                "height": 160
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "ef716325-045c-47a5-a06e-b59c98dc8d59"
+    },
+    {
+        "entity_id": "cfe6d100-03b3-4c92-937b-97e8a4ab69d0",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0449.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T10:14:34.036222Z",
+                "submit_date": "2022-02-07T10:33:54.374844Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "rohwgz9dj",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1716,
+                                "y": 1636,
+                                "width": 68,
+                                "height": 132
+                            }
+                        },
+                        {
+                            "id": "oosy0oj8b",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2005,
+                                "y": 1890,
+                                "width": 163,
+                                "height": 45
+                            }
+                        },
+                        {
+                            "id": "86ira2rke",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2042,
+                                "y": 1753,
+                                "width": 251,
+                                "height": 59
+                            }
+                        },
+                        {
+                            "id": "y2iwp4e99",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2533,
+                                "y": 1931,
+                                "width": 28,
+                                "height": 25
+                            }
+                        },
+                        {
+                            "id": "mbl3jj15l",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2560,
+                                "y": 1816,
+                                "width": 82,
+                                "height": 111
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "0594cbbe-850f-4430-97b6-85f24cc25aa1"
+    },
+    {
+        "entity_id": "a9bad3b5-f924-481e-9d6c-456cb799a144",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0455.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T10:33:54.680598Z",
+                "submit_date": "2022-02-07T10:34:47.765791Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "bw98toeuq",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1661,
+                                "y": 1709,
+                                "width": 98,
+                                "height": 103
+                            }
+                        },
+                        {
+                            "id": "67m9q3o2j",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2474,
+                                "y": 1792,
+                                "width": 207,
+                                "height": 98
+                            }
+                        },
+                        {
+                            "id": "qgi3spzpp",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2485,
+                                "y": 1374,
+                                "width": 139,
+                                "height": 67
+                            }
+                        },
+                        {
+                            "id": "cdpx2k9wd",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 1904,
+                                "y": 1929,
+                                "width": 296,
+                                "height": 79
+                            }
+                        },
+                        {
+                            "id": "182jg9e5f",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2153,
+                                "y": 1499,
+                                "width": 263,
+                                "height": 369
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "cff06941-688c-433c-961b-524b36f85afc"
+    },
+    {
+        "entity_id": "5f6fdc25-fa66-4c68-ac07-2c18a3198211",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0461.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T10:34:47.900340Z",
+                "submit_date": "2022-02-07T10:35:33.380581Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "ngaihffld",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2272,
+                                "y": 1231,
+                                "width": 58,
+                                "height": 31
+                            }
+                        },
+                        {
+                            "id": "d7by2yrdq",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2293,
+                                "y": 1469,
+                                "width": 29,
+                                "height": 212
+                            }
+                        },
+                        {
+                            "id": "991a00ylg",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2301,
+                                "y": 1747,
+                                "width": 41,
+                                "height": 86
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "7654e70b-7fb0-407b-9228-e3158717cf86"
+    },
+    {
+        "entity_id": "9a40fb30-bc03-4063-a147-47d0cdb7910d",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0467.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T10:35:33.525370Z",
+                "submit_date": "2022-02-07T10:39:39.078233Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "ani8k1sn6",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2529,
+                                "y": 1783,
+                                "width": 39,
+                                "height": 121
+                            }
+                        },
+                        {
+                            "id": "onbqjbnnb",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2412,
+                                "y": 1817,
+                                "width": 47,
+                                "height": 63
+                            }
+                        },
+                        {
+                            "id": "8oju2070x",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2552,
+                                "y": 1930,
+                                "width": 57,
+                                "height": 86
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "6068bc22-b00a-44c3-bc8a-f71ffab41282"
+    },
+    {
+        "entity_id": "2178edd1-bc8e-41ee-9da0-5f0e862059ec",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0473.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T10:39:39.209741Z",
+                "submit_date": "2022-02-07T11:11:45.518902Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "ar41oeow4",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2388,
+                                "y": 1913,
+                                "width": 30,
+                                "height": 127
+                            }
+                        },
+                        {
+                            "id": "ncoatb0u7",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2491,
+                                "y": 1923,
+                                "width": 28,
+                                "height": 37
+                            }
+                        },
+                        {
+                            "id": "85jygsttg",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2520,
+                                "y": 1954,
+                                "width": 76,
+                                "height": 64
+                            }
+                        },
+                        {
+                            "id": "itikj9rhu",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2289,
+                                "y": 1814,
+                                "width": 194,
+                                "height": 47
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "c4263b6d-798f-4cc6-9098-080f60c1b31e"
+    },
+    {
+        "entity_id": "66c04e3a-1a04-4aa1-9ae1-3a13172e4ddd",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0479.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T11:11:45.681875Z",
+                "submit_date": "2022-02-07T12:05:57.224378Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "rltfymi12",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2281,
+                                "y": 1716,
+                                "width": 128,
+                                "height": 27
+                            }
+                        },
+                        {
+                            "id": "trox719h9",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2266,
+                                "y": 1851,
+                                "width": 92,
+                                "height": 153
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "aa05e3ba-73f8-4c59-a846-85186da5ad91"
+    },
+    {
+        "entity_id": "d2f5d202-ebc3-4745-8fdc-aff3055899d6",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0485.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T12:05:57.376484Z",
+                "submit_date": "2022-02-07T12:06:18.528276Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "y7ufzs68j",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2353,
+                                "y": 1887,
+                                "width": 54,
+                                "height": 120
+                            }
+                        },
+                        {
+                            "id": "0y1e9inv7",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2380,
+                                "y": 1876,
+                                "width": 88,
+                                "height": 46
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "b4cc9c47-e0d8-4294-9408-7f087f61d289"
+    },
+    {
+        "entity_id": "5aa2b512-c89d-4efa-9216-0cdc74d42f8b",
+        "task_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "consistency_percentage": null,
+        "consistent_result": null,
+        "consistent_skip": null,
+        "file_name": "DSC_0491.JPG",
+        "organization_id": "74938302-d78d-4320-a425-6da3a225dd53",
+        "person_id": "6f18b8ef-a649-48e1-ac92-a82acaca4f05",
+        "result": {
+            "6f18b8ef-a649-48e1-ac92-a82acaca4f05": {
+                "pools": [
+                    "3cd47749-78ea-4ddd-aa2f-9aa68032e435"
+                ],
+                "pick_date": "2022-02-07T12:06:18.671383Z",
+                "submit_date": "2022-02-07T12:07:10.910440Z",
+                "result": {
+                    "marks": [
+                        {
+                            "id": "e9e4ela2b",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2258,
+                                "y": 1239,
+                                "width": 193,
+                                "height": 130
+                            }
+                        },
+                        {
+                            "id": "fv0xwitsa",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2066,
+                                "y": 1358,
+                                "width": 188,
+                                "height": 53
+                            }
+                        },
+                        {
+                            "id": "qwt2a49i0",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2301,
+                                "y": 1437,
+                                "width": 146,
+                                "height": 43
+                            }
+                        },
+                        {
+                            "id": "ylqyai036",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2185,
+                                "y": 1565,
+                                "width": 27,
+                                "height": 85
+                            }
+                        },
+                        {
+                            "id": "mtu6adm40",
+                            "entityId": 2,
+                            "type": "bbox",
+                            "position": {
+                                "x": 2200,
+                                "y": 1654,
+                                "width": 21,
+                                "height": 159
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "skip": {},
+        "storage_id": "910a3feb-a633-4249-9d91-31f3266256b9",
+        "uid": "fab67cc4-a553-421e-a7d8-2878f2d21d7b"
+    }
+]
