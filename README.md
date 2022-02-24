@@ -57,7 +57,9 @@
 
 Полный код обучения с изменением конфига в train.ipynb
 
-Итоговый конфиг, лучшие веса модели, а также логи обучения в job4_cascade_rcnn_x101_32x4d_fpn_1x_train_887_map0_5_0_95_aug_PMDistortion_final_fold0/
+Итоговый конфиг и логи обучения в <a href="https://github.com/karpovaknn/defect_detection/tree/main/job4_cascade_rcnn_x101_32x4d_fpn_1x_train_887_map0_5_0_95_aug_PMDistortion_final_fold0">job4_cascade_rcnn_x101_32x4d_fpn_1x_train_887_map0_5_0_95_aug_PMDistortion_final_fold0</a> 
+
+Лучшие веса можно скачать тут <a href="https://wandb.ai/karpovaknn/defect_detection/artifacts/model/models_files_cascade_rcnn_x101_32x4d_fpn_1x_train_887_map0_5_0_95_aug_PMDistortion_final_fold0_job4/1815f94ab8c660b8c55e/files">epoch_16</a> 
 
 Отчет по обучению:
 ![alt text](https://github.com/karpovaknn/defect_detection/blob/main/report/train.png?raw=true)
