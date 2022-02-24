@@ -49,6 +49,11 @@
 Сравнение размера царапин в тесте в разбивке по цветам с трейном:
 ![alt text](https://github.com/karpovaknn/defect_detection/blob/main/data/all_distr.png?raw=true)
 
+При этом красные детали распределены равномерно по размеру царапин между train и test. 
+![alt text](https://github.com/karpovaknn/defect_detection/blob/main/data/red_distr.png?raw=true)
+Неравномерность распределений связана с тем, что данных с белыми деталями больше, чем с красными
+
+
 ## Обучение
 
 Для обучения модели использовался <a href="https://github.com/open-mmlab/mmdetection">MMDetection</a>. 
