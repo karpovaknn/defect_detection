@@ -39,7 +39,7 @@
   </tbody>
 </table>
 
-Пример данных  лежит в папке: dataset/
+Пример данных  лежит в папке: <a href="https://github.com/karpovaknn/defect_detection/tree/main/dataset">dataset</a>
 
 Полные данные можно скачать с S3 хранилища:
 
@@ -85,5 +85,3 @@
 Все необходимые для работы библиотеки в requirements.txt.
 
 Также необходимо скачать <a href="https://github.com/open-mmlab/mmdetection">MMDetection</a> с оригинального репозитория и положить рядом с defect-detection.
-# defect_detection
-# defect_detection
